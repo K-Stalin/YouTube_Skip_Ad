@@ -5,6 +5,7 @@ import time
 # Time to wait before skipping the ad
 SKIP_AD_WAIT_TIME = 0.5
 
+
 # Function to skip the ad
 def skip_ad():
     x, y = 1212, 830  
