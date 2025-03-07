@@ -4,10 +4,10 @@ Youtube Skip Ad ✨
 
 A Python script that listens for a voice command (hotword) and automatically clicks the "Skip Ad" button on YouTube using Speech Recognition and PyAutoGUI.
 
-Features
-     - Uses speech recognition to detect a hotword ("Alexa").
-     - Moves the cursor to the "Skip Ad" button location and clicks it.
-     - Continuously listens for the hotword and skips ads automatically.
+## Features  
+- 🎙 Uses speech recognition to detect a hotword (**"Alexa"**).  
+- 🖱 Moves the cursor to the **"Skip Ad"** button location and clicks it.  
+- 🔄 Continuously listens for the hotword and **skips ads automatically**.  
 
 Requirements
   
