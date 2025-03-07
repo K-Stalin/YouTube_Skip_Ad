@@ -7,7 +7,9 @@ A Python script that listens for a voice command (hotword) and automatically cli
 Features
 
   Uses speech recognition to detect a hotword ("Alexa").
+  
   Moves the cursor to the "Skip Ad" button location and clicks it.
+  
   Continuously listens for the hotword and skips ads automatically.
 
 Requirements
